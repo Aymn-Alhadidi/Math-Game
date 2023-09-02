@@ -1,0 +1,13 @@
+D:\mohammed abohdhd\Math Game By Using C#\bin\Debug\Math Game By Using C#.exe.config
+D:\mohammed abohdhd\Math Game By Using C#\bin\Debug\Math Game By Using C#.exe
+D:\mohammed abohdhd\Math Game By Using C#\bin\Debug\Math Game By Using C#.pdb
+D:\mohammed abohdhd\Math Game By Using C#\obj\Debug\Math Game By Using C#.csproj.AssemblyReference.cache
+D:\mohammed abohdhd\Math Game By Using C#\obj\Debug\Math Game By Using C#.csproj.SuggestedBindingRedirects.cache
+D:\mohammed abohdhd\Math Game By Using C#\obj\Debug\Math_Game_By_Using_C_.Form1.resources
+D:\mohammed abohdhd\Math Game By Using C#\obj\Debug\Math_Game_By_Using_C_.Properties.Resources.resources
+D:\mohammed abohdhd\Math Game By Using C#\obj\Debug\Math Game By Using C#.csproj.GenerateResource.cache
+D:\mohammed abohdhd\Math Game By Using C#\obj\Debug\Math Game By Using C#.csproj.CoreCompileInputs.cache
+D:\mohammed abohdhd\Math Game By Using C#\obj\Debug\Math Game By Using C#.exe
+D:\mohammed abohdhd\Math Game By Using C#\obj\Debug\Math Game By Using C#.pdb
+D:\mohammed abohdhd\Math Game By Using C#\obj\Debug\Math_Game_By_Using_C_.CustomForm.resources
+D:\mohammed abohdhd\Math Game By Using C#\obj\Debug\Math_Game_By_Using_C_.StorageData.resources
